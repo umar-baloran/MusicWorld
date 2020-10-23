@@ -1,0 +1,429 @@
+
+
+.content .album
+{
+	height:100%;
+	width:97%;
+	float:left;
+	padding:1.5%;
+}
+
+.content .album .img
+{
+	height:370px;
+	width:27%;
+	position:relative;
+	padding:0px;
+	float:left;
+	box-shadow: 2px 4px 10px gray;
+}
+
+.content .album .img img
+{
+	height:100%;
+	width:100%;
+}
+.content .detail
+{
+	height:auto;
+	width:70%;
+	float:right;
+	position:relative;
+	padding:2px;
+	box-shadow: 2px 4px 10px gray;
+}
+.content .detail .album-name
+{
+	font: bold 17px/15px "Arial";
+	color: #000;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	width:100%;
+	height:25px;
+	border-bottom:1px solid #ccc;
+	overflow:hidden;
+}
+.content .detail .album-name a
+{
+	font: bold 17px/15px "Arial";
+	color: #3B8DBD !important;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	position:relative;
+}
+
+.content .detail .album-name a:hover
+{
+	color: #FF0000 !important;
+}
+.content .detail .album-detail
+{
+	font: bold 13px/11px "Arial";
+	color: #292828;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	width:100%;
+	height:45px;
+	border-bottom:1px solid #ccc;
+	margin-top:15px;
+}
+.content .detail .album-detail .rate
+{
+	float:left;
+}
+.content .detail .album-detail .review
+{
+	float:right;
+}
+.content .detail .album-detail .download
+{
+	float:left;
+	margin-top:10px;
+}
+.content .detail .album-detail .view
+{
+	float:right;
+	margin-top:10px;
+}
+.content .songs
+{
+	height:auto;
+	width:27%;
+	position:static;
+	padding:0px;
+	float:left;
+	box-shadow: 2px 4px 10px gray;
+	margin-top:10px;
+}
+.content .songs .songs-heading
+{
+	font: bold 17px/15px "Arial";
+	color: #333;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	width:100%;
+	text-transform:uppercase;
+	height:25px;
+	border-bottom:1px solid #888;
+}
+.content .songs .items
+{
+	height:auto;
+	width:100%;
+	margin-top:10px;
+}
+.content .songs .items .itema
+{
+	width:100%;
+	height:42px;
+	background-color:#F9F9F9;
+	margin-top:2px;
+}
+.content .songs .items .itemb
+{
+	width:100%;
+	height:42px;
+	background-color:#EEEEEE;
+	margin-top:2px;
+}
+.content .songs .items .img
+{
+	width:11%;
+	height:100%;
+	border-right:1px solid #fff;
+	float:left;
+	margin-right:0;
+	margin-left:0;
+	box-shadow: 0 0 0 gray;
+}
+.content .songs .items .img img
+{
+	width:100%;
+	height:100%;
+}
+.content .songs .items .song-name
+{
+	width:75%;
+	height:100%;
+	float:left;
+	overflow:hidden;
+	margin-left:2px;
+}
+.content .songs .items .song-name a
+{
+	float:left;
+	width:100%;
+	margin-top:5px;
+	padding:10px 0 10px 0;
+	font: bold 15px/13px "Arial";
+	color: #3B8DBD !important;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	position:relative;
+}
+.content .songs .items .itema #download img
+{
+	height:100%;
+	width:100%;
+	margin-top:8px;
+}
+.content .songs .items .itema #download
+{
+	float:right;
+	position:relative;
+	height:70%;
+	width:10%;
+}
+.content .songs .items .itemb #download img
+{
+	height:100%;
+	width:100%;
+	margin-top:8px;
+}
+.content .songs .items .itemb #download
+{
+	float:right;
+	position:relative;
+	height:70%;
+	width:10%;
+}
+.content .songs .items .song-name a:hover
+{
+	color: #FF0000 !important;
+}
+aside
+{
+	height:auto;
+	width:50%;
+	float:left;
+	position:absolute;
+	margin-left:27.5%;
+	padding:2px;
+	margin-top:428px;	
+}
+aside .related-heading
+{
+	font: bold 17px/15px "Arial";
+	color: #333;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	width:100%;
+	text-transform:uppercase;
+	height:25px;
+	border-bottom:1px solid #888;
+	margin-top:20px;
+	margin-bottom:-20px;
+}
+aside .related-items
+{
+	height:auto;
+	width:100%;
+}
+aside .related-items .item1
+{
+	width:30%;
+	height:170px;
+	margin-top:40px;
+	overflow:hidden;
+	float:left;
+	position:relative;
+	margin-left:2%;
+}
+aside .related-items .item2
+{
+	width:30%;
+	height:170px;
+	margin-top:40px;
+	overflow:hidden;
+	float:left;
+	position:relative;
+	margin-left:2%;
+}
+aside .related-items .item3
+{
+	width:30%;
+	height:170px;
+	margin-top:40px;
+	overflow:hidden;
+	float:left;
+	position:relative;
+	margin-left:2%;
+}
+aside .related-items .item4
+{
+	width:30%;
+	height:170px;
+	margin-top:40px;
+	overflow:hidden;
+	float:left;
+	position:relative;
+	margin-left:2%;
+}
+aside .related-items .item5
+{
+	width:30%;
+	height:170px;
+	margin-top:40px;
+	overflow:hidden;
+	float:left;
+	position:relative;
+	margin-left:2%;
+}
+aside .related-items .item6
+{
+	width:30%;
+	height:170px;
+	margin-top:40px;
+	float:left;
+	position:relative;
+	margin-left:2%;
+	overflow:hidden;
+}
+aside .related-items h3
+{
+	font: bold 17px/15px "Arial";
+	color: #000;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	width:100%;
+	height:22px;
+	border-bottom:1px solid #ccc;
+	margin-top:2px;
+	text-align:center;
+	line-height:20px;
+}
+aside .related-items a:hover h3
+{
+	color: #FF0000 !important ;
+}
+aside .related-items img
+{
+	width:100%;
+	height:85%;
+	border-radius:10px;
+	position:relative;
+}
+aside .related-items a:hover img
+{
+	width:99%;
+	height:84%;
+}
+.content .detail .album-artist-detail
+{
+	margin-left:2px;
+	font: bold 16px/14px "Arial";
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	width:100%;
+	height:auto;
+	overflow:auto;
+	margin-top:10px;
+}
+.content .detail .album-artist-detail span
+{
+	line-height:30px;
+}
+.content .detail .album-artist-detail .born
+{
+	float:left;
+}
+.content .detail .album-artist-detail .year
+{
+	float:left;
+}
+.content .detail .album-artist-detail .description
+{
+	float:left;
+}
+.content .detail .album-artist-detail .born-name
+{
+	margin-left:88px;
+	font-size:13px;
+	color: #444444;
+}
+.content .detail .album-artist-detail .year-name
+{
+	margin-left:34.2px;
+	font-size:13px;
+	color: #444444;
+}
+.content .detail .album-artist-detail .description-name
+{
+	margin-left:81px;
+	font-size:18px;
+	color: #444444;
+}
+body > div.wrap > div > div.album > div.detail > h3.album-artist-detail > span:nth-child(7),
+body > div.wrap > div > div.album > div.detail > h3.album-artist-detail > span:nth-child(12),
+body > div.wrap > div > div.album > div.detail > h3.album-artist-detail > span:nth-child(17)
+{
+	font-size:18px;
+}
+.content .detail .album-artist-detail .description-name p
+{
+	line-height:20px;
+	font-size:16px;
+	color: #444444;
+}
+.content .detail .album-artist-detail a
+{
+	color: #3B8DBD !important;
+}
+
+.ads
+{
+	height:auto;
+	float:right;
+	position:relative;
+	width:17.5%;
+	padding:1%;
+	border-radius:30px;
+}
+.ads img
+{
+	margin-bottom:10px;
+	width:100%;
+	cursor:pointer;
+	border-radius:30px;
+}
+.ads img:hover
+{
+	margin:5px 0 5px 5px;
+}
+.login
+{
+	position:absolute;
+	margin-top:70px;
+	margin-left:27%;
+	
+	width:20%;
+	font: bold 15px/17px "Arial";
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	color:#FFF;
+}
+.login input[type="text"],[type="password"]
+{
+	padding:0.5%;
+	width:80%;
+}
+.login input[type="submit"]
+{
+	padding:0.5%;
+	width:auto;
+}
+.logout
+{
+	font: bold 15px/17px "Arial";
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	color:#FFF;
+	position:absolute;
+	margin-top:150px;
+}
+
+
+
+	
+	
+	

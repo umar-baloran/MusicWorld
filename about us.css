@@ -1,0 +1,136 @@
+.content .album
+{
+	height:100%;
+	width:100%;
+	float:left;
+	padding:1%;
+}
+
+.content .detail
+{
+	height:auto;
+	width:97%;
+	float:left;
+	position:relative;
+	margin-top:5px;
+}
+.content .detail .album-artist-detail
+{
+	height:auto;
+	width:48%;
+	padding:5px;
+	float:left;
+	position:relative;
+}
+.content .detail .album-artist-detail span
+{
+	line-height:30px;
+}
+.content .detail .album-artist-detail .description
+{
+	margin-top:8px;
+	float:left;
+	letter-spacing: -2px;
+	color: #3e3e3e;
+	font: bold 40px/20px "Arial";
+	font-weight: 100;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.content .detail .album-artist-detail .description-name
+{
+	margin-left:81px;
+	font-size:13px;
+}
+.content .detail .album-artist-detail .description-name p
+{
+	line-height:20px;
+	font-size:13px;
+	font: bold 16px/14px "Arial";
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	line-height:30px;
+}
+
+.content .detail .img
+{
+	width:48%;
+	height:65%;
+	margin-top:10%;
+	position:absolute;
+	margin-left:52%;
+	float:right;
+	box-shadow: 2px 5px 15px #666666;
+	background-image:url(images/Music%20Wallpapers%207.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:100% 100%;
+}
+
+
+
+
+
+
+
+.content .detail1
+{
+	height:auto;
+	width:97%;
+	float:left;
+	position:relative;
+	margin-top:20px;
+	min-height:400px;
+}
+.content .detail1 .album-artist-detail
+{
+	margin-top:100px;
+	height:auto;
+	width:48%;
+	padding:5px;
+	float:right;
+	position:relative;
+}
+.content .detail1 .album-artist-detail span
+{
+	line-height:30px;
+}
+.content .detail1 .album-artist-detail .description
+{
+	margin-top:8px;
+	float:left;
+	letter-spacing: -2px;
+	color: #3e3e3e;
+	font: bold 40px/20px "Arial";
+	font-weight: 100;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.content .detail1 .album-artist-detail .description-name
+{
+	margin-left:81px;
+	font-size:13px;
+}
+.content .detail1 .album-artist-detail .description-name p
+{
+	line-height:20px;
+	font-size:13px;
+	font: bold 16px/14px "Arial";
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	line-height:30px;
+}
+
+.content .detail1 .img
+{
+	width:48%;
+	height:100%;
+	position:absolute;
+	float:right;
+	background-image:url(images/Untitled-1.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:100% 100%;
+}
+
+
+
+

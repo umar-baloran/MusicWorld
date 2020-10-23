@@ -1,0 +1,973 @@
+.allsongsheader
+{
+	float:left;
+	height:62px;
+	width:98%;
+	margin-left:1%;
+	background: url(images/top-nav.png) repeat-x;
+	border-bottom: 1px solid rgb(37, 37, 37);
+	border-bottom: 2px solid #FC3019;
+}
+.allsongsheader h5 
+{
+	display:block;
+	padding:23px;
+	font: bold 18px/16px "Arial";
+	color:#FFF;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:normal;
+	text-transform:uppercase;
+	vertical-align: baseline;
+	position:relative;
+	float:left;
+	
+}
+.allsongsheader h5 span
+{
+	color:#F00;
+}
+
+
+
+
+
+
+
+.productsall
+{
+	float:left;
+	height:auto;
+	width:98%;
+	margin-left:1%;
+}
+.productsall .item1
+{
+	float:left;
+	margin-top:10px;
+	margin-right:1%;
+	height:401px;
+	width:19%;
+	min-width:205px;
+	background: #161616;
+	text-align: center;
+	border: 1px solid rgba(238, 238, 238, 0.13);
+	position:relative;
+	overflow:hidden;
+}
+.productsall .item1:hover
+{
+	border: 1px solid #FC3019;
+}
+.productsall .item1 .img
+{
+	margin-top:13px;
+	height:60%;
+	max-height:223px;
+	width:100%;
+}
+.productsall .item1 h3
+{
+	display: block;
+	padding: 0.5em 0 0.2em 0;
+	font-family: 'Open Sans', sans-serif;
+	font-size:0.875em;
+	color: #FFF;
+	border-right: 1px solid rgba(151, 151, 151, 0.11);
+	text-transform: uppercase;
+	height:auto;
+	min-height:50px;
+}
+.productsall .item1 a:hover h3
+{
+	color:#FC3019;
+}
+.productsall .item1 #detaildown{
+	height:75px;
+	width:100%;
+}
+.productsall .item1 p
+{
+	text-align:left;
+	font-size:0.8125em;
+	color: #989898;
+	line-height: 1.6em;
+	font-family : verdana, arial, helvetica, helve, sans-serif; 
+}
+.productsall .item1 p  .detail
+{
+	float:left;
+	width:100%;
+	height:25px;
+	overflow:hidden;
+}
+.productsall .item1 .button a{
+		padding: 8px 10px;
+		display: block;
+		background: url(images/head1.png) repeat-x;
+		border: none;
+		font: bold 12px "Arial"!important;
+		color: #fff;
+		text-align: center;
+		cursor: pointer;
+		-moz-transition: background 0.5s ease;
+		-o-transition: background 0.5s ease;
+		-webkit-transition: background 0.5s ease;
+}
+.productsall .item1 .button a:hover{
+	background: url(images/head1h.png)repeat-x;
+	text-decoration: none !important;
+	-moz-transition: background 0.2s ease;
+	-o-transition: background 0.2s ease;
+	-webkit-transition: background 0.2s ease;
+}
+.productsall .item1 .button{
+	float:left;
+	width:100%;
+}
+
+
+
+
+
+
+
+.productsall .item2
+{
+	float:left;
+	margin-top:10px;
+	margin-right:1%;
+	height:401px;
+	width:19%;
+	min-width:205px;
+	background: #161616;
+	text-align: center;
+	border: 1px solid rgba(238, 238, 238, 0.13);
+	position:relative;
+	overflow:hidden;
+}
+.productsall .item2:hover
+{
+	border: 1px solid #FC3019;
+}
+.productsall .item2 .img
+{
+	margin-top:13px;
+	height:60%;
+	max-height:223px;
+	width:100%;
+}
+.productsall .item2 h3
+{
+	display: block;
+	padding: 0.5em 0 0.2em 0;
+	font-family: 'Open Sans', sans-serif;
+	font-size:0.875em;
+	color: #FFF;
+	border-right: 1px solid rgba(151, 151, 151, 0.11);
+	text-transform: uppercase;
+	height:auto;
+	min-height:50px;
+}
+.productsall .item2 a:hover h3
+{
+	color:#FC3019;
+}
+.productsall .item2 #detaildown{
+	height:75px;
+	width:100%;
+}
+.productsall .item2 p
+{
+	text-align:left;
+	font-size:0.8125em;
+	color: #989898;
+	line-height: 1.6em;
+	font-family : verdana, arial, helvetica, helve, sans-serif; 
+}
+.productsall .item2 p  .detail
+{
+	float:left;
+	width:100%;
+	height:25px;
+	overflow:hidden;
+}
+.productsall .item2 .button a{
+		padding: 8px 10px;
+		display: block;
+		background: url(images/head1.png) repeat-x;
+		border: none;
+		font: bold 12px "Arial"!important;
+		color: #fff;
+		text-align: center;
+		cursor: pointer;
+		-moz-transition: background 0.5s ease;
+		-o-transition: background 0.5s ease;
+		-webkit-transition: background 0.5s ease;
+}
+.productsall .item2 .button a:hover{
+	background: url(images/head1h.png)repeat-x;
+	text-decoration: none !important;
+	-moz-transition: background 0.2s ease;
+	-o-transition: background 0.2s ease;
+	-webkit-transition: background 0.2s ease;
+}
+.productsall .item2 .button{
+	float:left;
+	width:100%;
+}
+
+
+
+
+
+
+
+.productsall .item3
+{
+	float:left;
+	margin-top:10px;
+	margin-right:1%;
+	height:401px;
+	width:19%;
+	min-width:205px;
+	background: #161616;
+	text-align: center;
+	border: 1px solid rgba(238, 238, 238, 0.13);
+	position:relative;
+	overflow:hidden;
+}
+.productsall .item3:hover
+{
+	border: 1px solid #FC3019;
+}
+.productsall .item3 .img
+{
+	margin-top:13px;
+	height:60%;
+	max-height:223px;
+	width:100%;
+}
+.productsall .item3 h3
+{
+	display: block;
+	padding: 0.5em 0 0.2em 0;
+	font-family: 'Open Sans', sans-serif;
+	font-size:0.875em;
+	color: #FFF;
+	border-right: 1px solid rgba(151, 151, 151, 0.11);
+	text-transform: uppercase;
+	height:auto;
+	min-height:50px;
+}
+.productsall .item3 a:hover h3
+{
+	color:#FC3019;
+}
+.productsall .item3 #detaildown{
+	height:75px;
+	width:100%;
+}
+.productsall .item3 p
+{
+	text-align:left;
+	font-size:0.8125em;
+	color: #989898;
+	line-height: 1.6em;
+	font-family : verdana, arial, helvetica, helve, sans-serif; 
+}
+.productsall .item3 p  .detail
+{
+	float:left;
+	width:100%;
+	height:25px;
+	overflow:hidden;
+}
+.productsall .item3 .button a{
+		padding: 8px 10px;
+		display: block;
+		background: url(images/head1.png) repeat-x;
+		border: none;
+		font: bold 12px "Arial"!important;
+		color: #fff;
+		text-align: center;
+		cursor: pointer;
+		-moz-transition: background 0.5s ease;
+		-o-transition: background 0.5s ease;
+		-webkit-transition: background 0.5s ease;
+}
+.productsall .item3 .button a:hover{
+	background: url(images/head1h.png)repeat-x;
+	text-decoration: none !important;
+	-moz-transition: background 0.2s ease;
+	-o-transition: background 0.2s ease;
+	-webkit-transition: background 0.2s ease;
+}
+.productsall .item3 .button{
+	float:left;
+	width:100%;
+}
+
+
+
+
+
+
+
+.productsall .item4
+{
+	float:left;
+	margin-top:10px;
+	margin-right:1%;
+	height:401px;
+	width:19%;
+	min-width:205px;
+	background: #161616;
+	text-align: center;
+	border: 1px solid rgba(238, 238, 238, 0.13);
+	position:relative;
+	overflow:hidden;
+}
+.productsall .item4:hover
+{
+	border: 1px solid #FC3019;
+}
+.productsall .item4 .img
+{
+	margin-top:13px;
+	height:60%;
+	max-height:223px;
+	width:100%;
+}
+.productsall .item4 h3
+{
+	display: block;
+	padding: 0.5em 0 0.2em 0;
+	font-family: 'Open Sans', sans-serif;
+	font-size:0.875em;
+	color: #FFF;
+	border-right: 1px solid rgba(151, 151, 151, 0.11);
+	text-transform: uppercase;
+	height:auto;
+	min-height:50px;
+}
+.productsall .item4 a:hover h3
+{
+	color:#FC3019;
+}
+.productsall .item4 #detaildown{
+	height:75px;
+	width:100%;
+}
+.productsall .item4 p
+{
+	text-align:left;
+	font-size:0.8125em;
+	color: #989898;
+	line-height: 1.6em;
+	font-family : verdana, arial, helvetica, helve, sans-serif; 
+}
+.productsall .item4 p  .detail
+{
+	float:left;
+	width:100%;
+	height:25px;
+	overflow:hidden;
+}
+.productsall .item4 .button a{
+		padding: 8px 10px;
+		display: block;
+		background: url(images/head1.png) repeat-x;
+		border: none;
+		font: bold 12px "Arial"!important;
+		color: #fff;
+		text-align: center;
+		cursor: pointer;
+		-moz-transition: background 0.5s ease;
+		-o-transition: background 0.5s ease;
+		-webkit-transition: background 0.5s ease;
+}
+.productsall .item4 .button a:hover{
+	background: url(images/head1h.png)repeat-x;
+	text-decoration: none !important;
+	-moz-transition: background 0.2s ease;
+	-o-transition: background 0.2s ease;
+	-webkit-transition: background 0.2s ease;
+}
+.productsall .item4 .button{
+	float:left;
+	width:100%;
+}
+
+
+
+
+
+
+
+.productsall .item5
+{
+	float:left;
+	margin-top:10px;
+	height:401px;
+	width:19%;
+	min-width:205px;
+	background: #161616;
+	text-align: center;
+	border: 1px solid rgba(238, 238, 238, 0.13);
+	position:relative;
+	overflow:hidden;
+}
+.productsall .item5:hover
+{
+	border: 1px solid #FC3019;
+}
+.productsall .item5 .img
+{
+	margin-top:13px;
+	height:60%;
+	max-height:223px;
+	width:100%;
+}
+.productsall .item5 h3
+{
+	display: block;
+	padding: 0.5em 0 0.2em 0;
+	font-family: 'Open Sans', sans-serif;
+	font-size:0.875em;
+	color: #FFF;
+	border-right: 1px solid rgba(151, 151, 151, 0.11);
+	text-transform: uppercase;
+	height:auto;
+	min-height:50px;
+}
+.productsall .item5 a:hover h3
+{
+	color:#FC3019;
+}
+.productsall .item5 #detaildown{
+	height:75px;
+	width:100%;
+}
+.productsall .item5 p
+{
+	text-align:left;
+	font-size:0.8125em;
+	color: #989898;
+	line-height: 1.6em;
+	font-family : verdana, arial, helvetica, helve, sans-serif; 
+}
+.productsall .item5 p  .detail
+{
+	float:left;
+	width:100%;
+	height:25px;
+
+	overflow:hidden;
+}
+.productsall .item5 .button a{
+		padding: 8px 10px;
+		display: block;
+		background: url(images/head1.png) repeat-x;
+		border: none;
+		font: bold 12px "Arial"!important;
+		color: #fff;
+		text-align: center;
+		cursor: pointer;
+		-moz-transition: background 0.5s ease;
+		-o-transition: background 0.5s ease;
+		-webkit-transition: background 0.5s ease;
+}
+.productsall .item5 .button a:hover{
+	background: url(images/head1h.png)repeat-x;
+	text-decoration: none !important;
+	-moz-transition: background 0.2s ease;
+	-o-transition: background 0.2s ease;
+	-webkit-transition: background 0.2s ease;
+}
+.productsall .item5 .button{
+	float:left;
+	width:100%;
+}
+
+
+
+
+
+
+.productsall .item6
+{
+	float:left;
+	margin-top:10px;
+	margin-right:1%;
+	height:401px;
+	width:19%;
+	min-width:205px;
+	background: #161616;
+	text-align: center;
+	border: 1px solid rgba(238, 238, 238, 0.13);
+	position:relative;
+	overflow:hidden;
+}
+.productsall .item6:hover
+{
+	border: 1px solid #FC3019;
+}
+.productsall .item6 .img
+{
+	margin-top:13px;
+	height:60%;
+	max-height:223px;
+	width:100%;
+}
+.productsall .item6 h3
+{
+	display: block;
+	padding: 0.5em 0 0.2em 0;
+	font-family: 'Open Sans', sans-serif;
+	font-size:0.875em;
+	color: #FFF;
+	border-right: 1px solid rgba(151, 151, 151, 0.11);
+	text-transform: uppercase;
+	height:auto;
+	min-height:50px;
+}
+.productsall .item6 a:hover h3
+{
+	color:#FC3019;
+}
+.productsall .item6 #detaildown{
+	height:75px;
+	width:100%;
+}
+.productsall .item6 p
+{
+	text-align:left;
+	font-size:0.8125em;
+	color: #989898;
+	line-height: 1.6em;
+	font-family : verdana, arial, helvetica, helve, sans-serif; 
+}
+.productsall .item6 p  .detail
+{
+	float:left;
+	width:100%;
+	height:25px;
+	overflow:hidden;
+}
+.productsall .item6 .button a{
+		padding: 8px 10px;
+		display: block;
+		background: url(images/head1.png) repeat-x;
+		border: none;
+		font: bold 12px "Arial"!important;
+		color: #fff;
+		text-align: center;
+		cursor: pointer;
+		-moz-transition: background 0.5s ease;
+		-o-transition: background 0.5s ease;
+		-webkit-transition: background 0.5s ease;
+}
+.productsall .item6 .button a:hover{
+	background: url(images/head1h.png)repeat-x;
+	text-decoration: none !important;
+	-moz-transition: background 0.2s ease;
+	-o-transition: background 0.2s ease;
+	-webkit-transition: background 0.2s ease;
+}
+.productsall .item6 .button{
+	float:left;
+	width:100%;
+}
+
+
+
+
+
+
+
+.productsall .item7
+{
+	float:left;
+	margin-top:10px;
+	margin-right:1%;
+	height:401px;
+	width:19%;
+	min-width:205px;
+	background: #161616;
+	text-align: center;
+	border: 1px solid rgba(238, 238, 238, 0.13);
+	position:relative;
+	overflow:hidden;
+}
+.productsall .item7:hover
+{
+	border: 1px solid #FC3019;
+}
+.productsall .item7 .img
+{
+	margin-top:13px;
+	height:60%;
+	max-height:223px;
+	width:100%;
+}
+.productsall .item7 h3
+{
+	display: block;
+	padding: 0.5em 0 0.2em 0;
+	font-family: 'Open Sans', sans-serif;
+	font-size:0.875em;
+	color: #FFF;
+	border-right: 1px solid rgba(151, 151, 151, 0.11);
+	text-transform: uppercase;
+	height:auto;
+	min-height:50px;
+}
+.productsall .item7 a:hover h3
+{
+	color:#FC3019;
+}
+.productsall .item7 #detaildown{
+	height:75px;
+	width:100%;
+}
+.productsall .item7 p
+{
+	text-align:left;
+	font-size:0.8125em;
+	color: #989898;
+	line-height: 1.6em;
+	font-family : verdana, arial, helvetica, helve, sans-serif; 
+}
+.productsall .item7 p  .detail
+{
+	float:left;
+	width:100%;
+	height:25px;
+	overflow:hidden;
+}
+.productsall .item7 .button a{
+		padding: 8px 10px;
+		display: block;
+		background: url(images/head1.png) repeat-x;
+		border: none;
+		font: bold 12px "Arial"!important;
+		color: #fff;
+		text-align: center;
+		cursor: pointer;
+		-moz-transition: background 0.5s ease;
+		-o-transition: background 0.5s ease;
+		-webkit-transition: background 0.5s ease;
+}
+.productsall .item7 .button a:hover{
+	background: url(images/head1h.png)repeat-x;
+	text-decoration: none !important;
+	-moz-transition: background 0.2s ease;
+	-o-transition: background 0.2s ease;
+	-webkit-transition: background 0.2s ease;
+}
+.productsall .item7 .button{
+	float:left;
+	width:100%;
+}
+
+
+
+
+
+
+
+
+.productsall .item8
+{
+	float:left;
+	margin-top:10px;
+	margin-right:1%;
+	height:401px;
+	width:19%;
+	min-width:205px;
+	background: #161616;
+	text-align: center;
+	border: 1px solid rgba(238, 238, 238, 0.13);
+	position:relative;
+	overflow:hidden;
+}
+.productsall .item8:hover
+{
+	border: 1px solid #FC3019;
+}
+.productsall .item8 .img
+{
+	margin-top:13px;
+	height:60%;
+	max-height:223px;
+	width:100%;
+}
+.productsall .item8 h3
+{
+	display: block;
+	padding: 0.5em 0 0.2em 0;
+	font-family: 'Open Sans', sans-serif;
+	font-size:0.875em;
+	color: #FFF;
+	border-right: 1px solid rgba(151, 151, 151, 0.11);
+	text-transform: uppercase;
+	height:auto;
+	min-height:50px;
+}
+.productsall .item8 a:hover h3
+{
+	color:#FC3019;
+}
+.productsall .item8 #detaildown{
+	height:75px;
+	width:100%;
+}
+.productsall .item8 p
+{
+	text-align:left;
+	font-size:0.8125em;
+	color: #989898;
+	line-height: 1.6em;
+	font-family : verdana, arial, helvetica, helve, sans-serif; 
+}
+.productsall .item8 p  .detail
+{
+	float:left;
+	width:100%;
+	height:25px;
+	overflow:hidden;
+}
+.productsall .item8 .button a{
+		padding: 8px 10px;
+		display: block;
+		background: url(images/head1.png) repeat-x;
+		border: none;
+		font: bold 12px "Arial"!important;
+		color: #fff;
+		text-align: center;
+		cursor: pointer;
+		-moz-transition: background 0.5s ease;
+		-o-transition: background 0.5s ease;
+		-webkit-transition: background 0.5s ease;
+}
+.productsall .item8 .button a:hover{
+	background: url(images/head1h.png)repeat-x;
+	text-decoration: none !important;
+	-moz-transition: background 0.2s ease;
+	-o-transition: background 0.2s ease;
+	-webkit-transition: background 0.2s ease;
+}
+.productsall .item8 .button{
+	float:left;
+	width:100%;
+}
+
+
+
+
+
+
+
+.productsall .item9
+{
+	float:left;
+	margin-top:10px;
+	margin-right:1%;
+	height:401px;
+	width:19%;
+	min-width:205px;
+	background: #161616;
+	text-align: center;
+	border: 1px solid rgba(238, 238, 238, 0.13);
+	position:relative;
+	overflow:hidden;
+}
+.productsall .item9:hover
+{
+	border: 1px solid #FC3019;
+}
+.productsall .item9 .img
+{
+	margin-top:13px;
+	height:60%;
+	max-height:223px;
+	width:100%;
+}
+.productsall .item9 h3
+{
+	display: block;
+	padding: 0.5em 0 0.2em 0;
+	font-family: 'Open Sans', sans-serif;
+	font-size:0.875em;
+	color: #FFF;
+	border-right: 1px solid rgba(151, 151, 151, 0.11);
+	text-transform: uppercase;
+	height:auto;
+	min-height:50px;
+}
+.productsall .item9 a:hover h3
+{
+	color:#FC3019;
+}
+.productsall .item9 #detaildown{
+	height:75px;
+	width:100%;
+}
+.productsall .item9 p
+{
+	text-align:left;
+	font-size:0.8125em;
+	color: #989898;
+	line-height: 1.6em;
+	font-family : verdana, arial, helvetica, helve, sans-serif; 
+}
+.productsall .item9 p  .detail
+{
+	float:left;
+	width:100%;
+	height:25px;
+	overflow:hidden;
+}
+.productsall .item9 .button a{
+		padding: 8px 10px;
+		display: block;
+		background: url(images/head1.png) repeat-x;
+		border: none;
+		font: bold 12px "Arial"!important;
+		color: #fff;
+		text-align: center;
+		cursor: pointer;
+		-moz-transition: background 0.5s ease;
+		-o-transition: background 0.5s ease;
+		-webkit-transition: background 0.5s ease;
+}
+.productsall .item9 .button a:hover{
+	background: url(images/head1h.png)repeat-x;
+	text-decoration: none !important;
+	-moz-transition: background 0.2s ease;
+	-o-transition: background 0.2s ease;
+	-webkit-transition: background 0.2s ease;
+}
+.productsall .item9 .button{
+	float:left;
+	width:100%;
+}
+
+
+
+
+
+
+
+.productsall .item10
+{
+	float:left;
+	margin-top:10px;
+	height:401px;
+	width:19%;
+	min-width:205px;
+	background: #161616;
+	text-align: center;
+	border: 1px solid rgba(238, 238, 238, 0.13);
+	position:relative;
+	overflow:hidden;
+}
+.productsall .item10:hover
+{
+	border: 1px solid #FC3019;
+}
+.productsall .item10 .img
+{
+	margin-top:13px;
+	height:60%;
+	max-height:223px;
+	width:100%;
+}
+.productsall .item10 h3
+{
+	display: block;
+	padding: 0.5em 0 0.2em 0;
+	font-family: 'Open Sans', sans-serif;
+	font-size:0.875em;
+	color: #FFF;
+	border-right: 1px solid rgba(151, 151, 151, 0.11);
+	text-transform: uppercase;
+	height:auto;
+	min-height:50px;
+}
+.productsall .item10 a:hover h3
+{
+	color:#FC3019;
+}
+.productsall .item10 #detaildown{
+	height:75px;
+	width:100%;
+}
+.productsall .item10 p
+{
+	text-align:left;
+	font-size:0.8125em;
+	color: #989898;
+	line-height: 1.6em;
+	font-family : verdana, arial, helvetica, helve, sans-serif; 
+}
+.productsall .item10 p  .detail
+{
+	float:left;
+	width:100%;
+	height:25px;
+	overflow:hidden;
+}
+.productsall .item10 .button a{
+		padding: 8px 10px;
+		display: block;
+		background: url(images/head1.png) repeat-x;
+		border: none;
+		font: bold 12px "Arial"!important;
+		color: #fff;
+		text-align: center;
+		cursor: pointer;
+		-moz-transition: background 0.5s ease;
+		-o-transition: background 0.5s ease;
+		-webkit-transition: background 0.5s ease;
+}
+.productsall .item10 .button a:hover{
+	background: url(images/head1h.png)repeat-x;
+	text-decoration: none !important;
+	-moz-transition: background 0.2s ease;
+	-o-transition: background 0.2s ease;
+	-webkit-transition: background 0.2s ease;
+}
+.productsall .item10 .button{
+	float:left;
+	width:100%;
+}
+
+.pages
+{
+	float:left;
+	height:auto;
+	width:100%;
+	position:relative;
+	background-color:#CCC;
+}
+.pages a
+{
+	font: bold 12px "Arial"!important;
+	color: #000;
+	text-align: center;
+	padding:10px;
+	float:right;
+	margin:auto;
+	margin-right:6px;
+	
+}
+.pages a img
+{
+	margin-top:1px;
+}
+.pages a:hover
+{
+	color:#F00; 
+	text-decoration:underline;
+}

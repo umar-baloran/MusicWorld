@@ -1,0 +1,495 @@
+.content .events
+{
+	width:98%;
+	margin-left:1%;
+	float:left;
+	height:auto;
+	position:relative;
+}
+.content .events .item
+{
+	width:96.8%;
+	height:250px;
+	border:1px solid #ddd;
+	float:left;
+	margin:20px 0;
+	padding:1%;
+	position:relative;
+	overflow:auto;
+}
+.content .events .item .img
+{
+	width:10%;
+	height:100%;
+	float:left;
+	position:relative;
+}
+.content .events .item img
+{
+	width:100%;
+	height:70%;
+	float:left;
+	position:relative;
+}
+.content .events .item h3
+{
+	width:88%;
+	height:auto;
+	margin:0 1%;
+	display:block;
+	font: bold 110%/16px "Arial";
+	color:#333;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:normal;
+	text-transform:uppercase;
+	vertical-align: baseline;
+	position:relative;
+	float:left;
+	line-height:20px;
+	overflow:auto;
+}
+.content .events .item h3 a
+{
+	color:#333;
+}
+.content .events .item h3 a:hover
+{
+	text-decoration:underline;
+	color:#F00 !important;
+}
+.content .events .item .time
+{
+	width:87%;
+	margin-left:1%;
+	height:auto;
+	padding:12px 1%;
+	position:relative;
+	float:left;
+	border-bottom:solid 1px #ddd;
+}
+
+.content .events .item .venue
+{
+	width:87%;
+	margin-left:1%;
+	height:auto;
+	padding:12px 1%;
+	position:relative;
+	float:left;
+	border-bottom:solid 1px #ddd;
+}
+.content .events .item .created
+{
+	width:87%;
+	margin-left:1%;
+	height:auto;
+	padding:12px 1%;
+	position:relative;
+	float:left;
+}
+
+.content .events .item .title
+{
+	width:auto;
+	min-width:13%;
+	height:auto;
+	background:#ddd;
+	font-family: pn-bold,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: bold 14px/16px "Arial";
+	position:relative;
+	float:left;
+	overflow:hidden;
+	padding:0 1%;
+	line-height:27px;
+	text-align:center;
+}
+.content .events .item .title p
+{
+	text-align:center;
+}
+.content .events .item .description
+{
+	width:auto;
+	height:auto;
+	margin-left:1%;
+	font-family: "Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 16px;
+	line-height:25px;
+	color:#444;
+	position:relative;
+	float:left;
+	overflow:auto;
+}
+
+.content .events .item .description a
+{
+	color:#444;
+	font-weight:bold;
+}
+.content .events .item .description a:hover
+{
+	text-decoration:underline;
+}
+
+.content .events .item .description span
+{
+	color:#444;
+	font-weight:bold;
+	float:left;
+	height:25px;
+	width:auto;
+	margin-top:20px;
+}
+.content .events .item .description span img
+{
+	height:14px;
+	width:74px;
+	float:left;
+	position:relative;
+	top:5px;
+}
+
+.seemore
+{
+	display:block;
+	color:#444;
+	text-align:center;
+	margin:0 0 18px 40%;
+	position:relative;
+	float:left;
+	border: 0 rgba(0,0,0,0);
+	background-color: #f5f5f5;
+	background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+	border-radius: 2px;
+	display: inline-block;
+	zoom: 1;
+	padding: .3em 4em;	
+	border: 1px outset #c6c6c6 !important;
+	font-family: arial,sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	-webkit-appearance: push-button;
+}
+.seemore:hover
+{
+	border: 1px inset #c6c6c6 !important;
+}
+
+.content .events .hide1
+{
+	height:auto;
+	width:auto;
+	position:relative;
+	float:left;
+	display:none;
+}
+
+.content .events .hide2
+{
+	height:auto;
+	width:auto;
+	position:relative;
+	float:left;
+	display:none;
+}
+
+#hidebutton2
+{
+	display:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+.content .events .item_review
+{
+	width:90%;
+	height:auto;
+	float:left;
+	margin:15px 5%;
+}
+.content .events .item_review .img
+{
+	width:100%;
+	float:left;
+	height:200px;
+}
+.content .events .item_review table tbody tr .img img
+{
+	width:100%;
+	height:100%;
+}
+hr
+{
+	width: 100%;
+color: #333333;
+border: none;
+border-top: dashed 1px #9f9d9d;
+background-color: #FFFFFF;
+height: 1px;
+display: block;
+-webkit-margin-before: 0.5em;
+-webkit-margin-after: 0.5em;
+-webkit-margin-start: auto;
+-webkit-margin-end: auto;
+}
+.content .events .item_review table .asmall
+{
+	FONT-FAMILY: Georgia, Helvetica, Verdana, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	font-weight:bold;
+	color:#333333;
+}
+.content .events .item_review table .bsmall
+{
+	FONT-FAMILY: Georgia, Helvetica, Verdana, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	color:#333333;
+}
+.content .events .item_review .detail
+{
+	width:100%;
+	height:auto;
+}
+.content .events .item_review .detail .date
+{
+	width:100%;
+	float:left;
+	height:auto;
+	padding:5px 0;
+}
+.content .events .item_review .detail .date p
+{
+	FONT-SIZE: 4mm;
+	COLOR: #9f9f9f;
+	FONT-FAMILY: Georgia, Helvetica, Verdana, Arial, sans-serif;
+}
+.content .events .item_review .detail .updated
+{
+	width:100%;
+	float:left;
+	height:auto;
+	padding:5px 0;
+}
+.content .events .item_review .detail .updated p
+{
+	FONT-SIZE: 4mm;
+	COLOR: #9f9f9f;
+	FONT-FAMILY: Georgia, Helvetica, Verdana, Arial, sans-serif;
+}
+.content .events .item_review .detail .edit
+{
+	width:100%;
+	float:left;
+	height:auto;
+	padding:5px 0;
+}
+.content .events .item_review .detail .edit p
+{
+	FONT-SIZE: 19px;
+	COLOR: #606060;
+	FONT-FAMILY: Georgia, Helvetica, Verdana, Arial, sans-serif;
+	line-height: 20px;
+}
+
+.content .events .item_review .detail .data
+{
+	width:100%;
+	float:left;
+	height:auto;
+	margin-top:30px;
+	padding:5px 0;
+	
+}
+.content .events .item_review .detail .data p
+{
+	font-size: 17px;
+	COLOR: #000;
+	FONT-FAMILY: Georgia, Helvetica, Verdana, Arial, sans-serif;
+	line-height: 22px;
+	word-spacing:5px;
+	letter-spacing:1px;
+}
+.lyrics
+{
+	FONT-SIZE: 19px;
+	color: #0033cc;
+	text-decoration: none;
+	FONT-FAMILY: Georgia, Helvetica, Verdana, Arial, sans-serif;
+	font-weight: bold;
+}
+.lyrics:hover
+{
+	text-decoration:underline;
+}
+body > div.wrap > div > div.events > div > div > div.data > div
+{
+	width:100%;
+	height:auto;
+	float:left;
+	position:relative;
+	margin-bottom:25px;
+	text-align:center;
+}
+body > div.wrap > div > div.events > div > div > div.data > div > img
+{
+	max-width:575px;
+	width:50%;
+	border:5px solid #bbb; 
+	margin:0 25% 0 25%; 
+}
+
+.content .events .item_review .rattingchart
+{
+	width:100%;
+	float:left;
+	height:auto;
+	padding:5px 0;
+	margin-top:20px;
+}
+.content .events .item_review .rattingchart p
+{
+	FONT-SIZE: 15px;
+	COLOR: #000;
+	FONT-FAMILY: Georgia, Helvetica, Verdana, Arial, sans-serif;
+	line-height: 15px;
+	font-weight:bold;
+}
+.content .events .item_review .excellent
+{
+	width:100%;
+	float:left;
+	height:auto;
+	padding:5px 0;
+}
+.content .events .item_review .excellent p
+{
+	FONT-SIZE: 15px;
+	COLOR: #000;
+	FONT-FAMILY: Georgia, Helvetica, Verdana, Arial, sans-serif;
+	line-height: 15px;
+}
+.content .events .item_review .excellent p span
+{
+	font-weight:bold;
+}
+.content .events .item_review .verygood
+{
+	width:100%;
+	float:left;
+	height:auto;
+	padding:5px 0;
+}
+.content .events .item_review .verygood p
+{
+	FONT-SIZE: 15px;
+	COLOR: #000;
+	FONT-FAMILY: Georgia, Helvetica, Verdana, Arial, sans-serif;
+	line-height: 15px;
+}
+.content .events .item_review .verygood p span
+{
+	font-weight:bold;
+}
+.content .events .item_review .good
+{
+	width:100%;
+	float:left;
+	height:auto;
+	padding:5px 0;
+}
+.content .events .item_review .good p
+{
+	FONT-SIZE: 15px;
+	COLOR: #000;
+	FONT-FAMILY: Georgia, Helvetica, Verdana, Arial, sans-serif;
+	line-height: 15px;
+}
+.content .events .item_review .good p span
+{
+	font-weight:bold;
+}
+.content .events .item_review .average
+{
+	width:100%;
+	float:left;
+	height:auto;
+	padding:5px 0;
+}
+.content .events .item_review .average p
+{
+	FONT-SIZE: 15px;
+	COLOR: #000;
+	FONT-FAMILY: Georgia, Helvetica, Verdana, Arial, sans-serif;
+	line-height: 15px;
+}
+.content .events .item_review .average p span
+{
+	font-weight:bold;
+}
+.content .events .item_review .pathetic
+{
+	width:100%;
+	float:left;
+	height:auto;
+	padding:5px 0;
+}
+.content .events .item_review .pathetic p
+{
+	FONT-SIZE: 15px;
+	COLOR: #000;
+	FONT-FAMILY: Georgia, Helvetica, Verdana, Arial, sans-serif;
+	line-height: 15px;
+}
+.content .events .item_review .pathetic p span
+{
+	font-weight:bold;
+}
+
+
+
+.content .events .item_review .rating
+{
+	width:100%;
+	float:left;
+	height:auto;
+	padding:5px 0;
+	margin-top:50px;
+}
+.content .events .item_review .rating p
+{
+	FONT-SIZE: 15px;
+	COLOR: #000;
+	FONT-FAMILY: Georgia, Helvetica, Verdana, Arial, sans-serif;
+	line-height: 15px;
+}
+.content .events .item_review .rating p span
+{
+	font-weight:bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

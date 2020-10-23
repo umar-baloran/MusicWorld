@@ -1,0 +1,94 @@
+.newreleasedheader
+{
+	float:left;
+	height:62px;
+	width:98%;
+	margin-left:1%;
+	background: url(images/top-nav.png) repeat-x;
+	border-bottom: 1px solid rgb(37, 37, 37);
+	border-bottom: 2px solid #FC3019;
+}
+.newreleasedheader h5 
+{
+	display:block;
+	padding:23px;
+	font: bold 18px/16px "Arial";
+	color:#FFF;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:normal;
+	text-transform:uppercase;
+	vertical-align: baseline;
+	position:relative;
+	float:left;
+	
+}
+.newreleasedheader h5 span
+{
+	color:#F00;
+}
+.content .album
+{
+	height:100%;
+	width:100%;
+	float:left;
+	padding:1%;
+}
+
+.content .detail
+{
+	height:auto;
+	width:97%;
+	float:left;
+	position:relative;
+	margin-top:5px;
+}
+.content .detail .album-artist-detail
+{
+	height:auto;
+	width:90%;
+	padding:5px;
+	margin:auto;
+	position:relative;
+}
+.content .detail .album-artist-detail span
+{
+	line-height:30px;
+}
+.content .detail .album-artist-detail .description
+{
+	margin-top:8px;
+	float:left;
+	letter-spacing: -2px;
+	color: #3e3e3e;
+	font: bold 30px/30px "Arial";
+	font-weight: 100;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.content .detail .album-artist-detail .description-name
+{
+	margin-left:81px;
+	font-size:13px;
+}
+.content .detail .album-artist-detail .description-name p
+{
+	font-size: 17px;
+	COLOR: #000;
+	FONT-FAMILY: Georgia, Helvetica, Verdana, Arial, sans-serif;
+	line-height: 22px;
+	word-spacing: 5px;
+	letter-spacing: 1px;
+}
+.detail h3 ul
+{
+	list-style:inside;
+}
+.detail h3 ul li
+{
+	line-height:20px;
+	font-size:15px;
+	font: bold 14px/12px;
+	font-family: avenir,"helvetica neue",helvetica,"san serif";
+	font-weight: normal;
+	line-height:25px;
+}
+
